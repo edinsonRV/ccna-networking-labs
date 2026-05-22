@@ -68,3 +68,9 @@ Each folder contains:
 
 Edinson Romero
 
+
+
+\## Credits
+
+Several labs in this repository were completed while following the CCNA course and lab exercises from \[Jeremy's IT Lab](https://www.youtube.com/@JeremysITLab).
+
